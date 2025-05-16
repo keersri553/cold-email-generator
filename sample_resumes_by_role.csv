@@ -1,0 +1,22 @@
+Role,Skills,Resume_Link
+Frontend Developer,"HTML, CSS, JavaScript, React",https://example.com/frontend-resume
+Backend Developer,"Java, Spring Boot, MySQL",https://example.com/backend-resume
+Full Stack Developer,"JavaScript, Node.js, MongoDB, React",https://example.com/fullstack-resume
+Mobile App Developer,"Flutter, Dart, Firebase",https://example.com/mobile-resume
+DevOps Engineer,"Docker, Jenkins, Kubernetes, AWS",https://example.com/devops-resume
+Data Scientist,"Python, Pandas, NumPy, SQL",https://example.com/data-scientist-resume
+Machine Learning Engineer,"Python, TensorFlow, Scikit-learn",https://example.com/ml-engineer-resume
+UI/UX Designer,"Figma, Adobe XD, Sketch",https://example.com/uiux-resume
+Cloud Architect,"AWS, Azure, GCP, Terraform",https://example.com/cloud-architect-resume
+Cybersecurity Analyst,"Python, Wireshark, Kali Linux",https://example.com/cybersecurity-resume
+Embedded Systems Engineer,"C, C++, RTOS, Microcontrollers",https://example.com/embedded-resume
+Game Developer,"Unity, C#, Blender",https://example.com/game-dev-resume
+Business Analyst,"Excel, SQL, Tableau",https://example.com/ba-resume
+Product Manager,"Agile, Scrum, Roadmapping",https://example.com/pm-resume
+Blockchain Developer,"Solidity, Ethereum, Web3.js",https://example.com/blockchain-resume
+AI Researcher,"Python, PyTorch, Jupyter",https://example.com/ai-researcher-resume
+QA Engineer,"Selenium, Postman, TestNG",https://example.com/qa-resume
+Site Reliability Engineer,"Prometheus, Grafana, Bash",https://example.com/sre-resume
+Technical Writer,"Markdown, Git, API Docs",https://example.com/tech-writer-resume
+AR/VR Developer,"Unity, ARKit, ARCore",https://example.com/ar-vr-resume
+"Business Development Manager, Growth & Ecosystem Partnerships","Partnership Management, Growth Strategy, Ecosystem Development, Communication, Negotiation",https://example.com/business-development-manager-resume
