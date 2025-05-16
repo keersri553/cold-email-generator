@@ -1,4 +1,4 @@
-# cold-email-generator
+# Cold-email-generator
 ## 🚀 Job Matcher & Email Automation
 
 This project automates the process of matching resumes to job descriptions and composing tailored emails to recruiters. It leverages LLMs, ChromaDB vector store, and resume parsing to streamline cold outreach for job seekers.
