@@ -1,5 +1,5 @@
 # cold-email-generator
-# 🚀 Job Matcher & Email Automation
+## 🚀 Job Matcher & Email Automation
 
 This project automates the process of matching resumes to job descriptions and composing tailored emails to recruiters. It leverages LLMs, ChromaDB vector store, and resume parsing to streamline cold outreach for job seekers.
 
@@ -16,10 +16,3 @@ This project automates the process of matching resumes to job descriptions and c
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/job-matcher-email-bot.git
-cd job-matcher-email-bot
