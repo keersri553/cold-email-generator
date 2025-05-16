@@ -31,6 +31,8 @@ Ensure you have a CSV file named resumes.csv containing columns Skills and Resum
 
 Run the script using python app.py (or your script file name).
 
+---
+
 🧠 How to Get a Groq API Key
 Visit https://console.groq.com/
 
@@ -40,6 +42,8 @@ Go to the API section and create a new API key.
 
 Copy the key and paste it in your .env file under GROQ_API_KEY.
 
+---
+
 📁 Project Contents
 app.py – Main Python script for running the pipeline.
 
@@ -48,6 +52,8 @@ resumes.csv – Input file with resume skill data and links.
 .env – Hidden file for storing the Groq API key (not to be committed).
 
 vectorstore/ – Directory created by ChromaDB for persistent storage.
+
+---
 
 🔒 Security Best Practices
 Never commit .env or your Groq API key to version control.
